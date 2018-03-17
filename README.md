@@ -3,7 +3,7 @@ This memory game was a timed, morning challenge. The idea was to build a 10 card
 
 **Join the waitlist here:** https://karina001.github.io/womquest/
 
-![alt tag](https://github.com/karina001/spanishColorsMemoryGame/blob/master/spanishMemoryGame.png)
+![alt tag](https://github.com/karina001/womquest/blob/master/Screen%20Shot%202018-03-17%20at%2012.35.35%20AM.png)
 
 ## How It's Made:
 
