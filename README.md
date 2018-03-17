@@ -1,5 +1,5 @@
 # Wom Quest
-This memory game was a timed, morning challenge. The idea was to build a 10 card memory game, that allows a user to select 2 cards and check if they match. If the cards match, they stay flipped. If not, they flip back over. The memory game is over when all cards are matched and flipped back.
+Wom Quest is a gamified, peer-to-peer platform that rewards and incentivizes users to share referral codes and save a lot of money. The main idea behind this crowdsourced deal platform, is that current B2C coupon and discount platforms are broken due to coupon fraud, infringement, or even lack of coupon validation. Wom Quest aims to change that by providing a P2P platform that is fun and rewarding.
 
 **Join the waitlist here:** https://karina001.github.io/womquest/
 
