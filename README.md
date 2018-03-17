@@ -9,7 +9,7 @@ Wom Quest is a gamified, peer-to-peer platform that rewards and incentivizes use
 HTML, CSS, JavaScript
 
 ## Optimizations
-This is an initial draft of the Wom Quest landing page but will be updated (between 3/17-3/19). Please feel free to join our waiting list for the Fall 2018 launch and or contribute to the project by sharing more about how you use referral promotions.
+This is an initial draft of the Wom Quest landing page but will be updated (between 3/17-3/19). Please feel free to join our waiting list for the Fall 2018 launch and or contribute to the project by sharing more about how you use referral promotions via the website Google Form. Thank you, Wom on!
 
 ## Examples:
 Take a look at other examples that I have in my own portfolio:
