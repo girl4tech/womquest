@@ -1,7 +1,7 @@
 # Wom Quest
 This memory game was a timed, morning challenge. The idea was to build a 10 card memory game, that allows a user to select 2 cards and check if they match. If the cards match, they stay flipped. If not, they flip back over. The memory game is over when all cards are matched and flipped back.
 
-**Demo the game here:** https://karina001.github.io/spanishColorsMemoryGame/
+**Join the waitlist here:** https://karina001.github.io/womquest/
 
 ![alt tag](https://github.com/karina001/spanishColorsMemoryGame/blob/master/spanishMemoryGame.png)
 
